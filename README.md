@@ -1,2 +1,2 @@
 # Technical-documentation
-This is a page that describes how Java Script works.
+This is a page that describes how JavaScript works.
